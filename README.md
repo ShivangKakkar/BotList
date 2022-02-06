@@ -1,11 +1,34 @@
 ## Telegram Bot List
 
+This is the list of all our telegram bots, their source codes and all our work. If you like one, or more, consider giving a star to the corresponding repository. 
+
+For updates on these bots or new ones, follow us on [Telegram](https://t.me/StarkBots) and [GitHub](https://github.com/StarkBotsIndustries)
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ul>
+    <li><a href="#community">Community</a></li>
+    <li><a href="#create-own-bots-using-pystark">Create Own Bots using PyStark</a></li>
+    <li><a href="#list-of-source-codes">List of Source Codes</a></li>
+    <li><a href="#list-of-telegram-bots">List of Telegram Bots</a></li>
+  </ul>
+</details>
+
 ### Community
 
 - Telegram Channel - [@StarkBots](https://t.me/StarkBots)
 - Telegram Group - [@StarkBotsChat](https://t.me/StarkBotsChat)
 
-### Source Codes
+
+### Create Own Bots using PyStark
+
+- Repository - https://github.com/StarkBotsIndustries/PyStark
+- Documentation - https://pystark.codes
+- PyPI - https://pypi.org/project/pystark/
+- Updates - [@pystark](https://t.me/pystark)
+
+
+### List of Source Codes
 
 1) [Whisper Bot](https://github.com/StarkBotsIndustries/WhisperBot) - Send Secret Whispers
 2) [Rename Bot](https://github.com/StarkBotsIndustries/RenameTelegramBot) - Rename telegram files
@@ -17,18 +40,20 @@
 8) [Telegraph Bot](https://github.com/StarkBotsIndustries/TelegraphBot) - Telegraph Media Uploader
 9) [Channel Automation Bot](https://github.com/StarkBotsIndustries/ChannelBot) - Telegram Channel Automation Tool
 10) [String Session Bot](https://github.com/StarkBotsIndustries/StringSessionBot) - Pyrogram and Telethon String Session Generator
-11) Instagram Downloader Bot - Private (for now)
+11) Instagram Downloader Bot - Download instagram content inside telegram
 12) [PDF Tools Bot](https://github.com/StarkBotsIndustries/PDFBot) - PDF Tools
 13) [Force Subscribe Bot](https://github.com/StarkBotsIndustries/ForceSubscribeBot) - Force users to join a particular chat
 14) [Delete Events Bot](https://github.com/StarkBotsIndustries/DeleteEventsBot) - Delete Telegram Service Messages
 15) [ID Bot](https://github.com/StarkBotsIndustries/ID-Bot) - Get ID of groups, channels, users, bots and stickers
 16) [Time Bot](https://github.com/StarkBotsIndustries/TimeBot) - Show time of all timezones with other features
 17) [Go File Uploader](https://github.com/StarkBotsIndustries/GoFileBot) - Upload media to gofile.io
-18) Stark Assistant (private source) - Manage Stark Bots and its Support Group [@StarkBotsChat](https://t.me/StarkBotsChat)
+18) Stark Assistant Bot - Manages Stark Bots and its Support Group [@StarkBotsChat](https://t.me/StarkBotsChat)
 19) [Delete All Bot](https://github.com/StarkBotsIndustries/DeleteAllBot) - Delete all messages in a group
+20) Restricted Content Bot - Get restricted content from telegram chats.
+21) Video Sticker Bot - Create personalized video stickers packs.
 
 
-### Telegram Bot Links
+### List of Telegram Bots
 
 1) [@WhisperStarkBot](https://t.me/WhisperStarkBot)
 2) [@RenameStarkBot](https://t.me/RenameStarkBot)
@@ -49,3 +74,5 @@
 17) [@GoFileClientBot](https://t.me/GoFileClientBot)
 18) [@StarkAssistantBot](https://t.me/StarkAssistantBot)
 19) [@StarkDeleteAllBot](https://t.me/StarkDeleteAllBot)
+20) [@RestrictedContentBot](https://t.me/RestrictedContentBot)
+21) [@Video_Sticker_Bot](https://t.me/Video_Sticker_Bot)
