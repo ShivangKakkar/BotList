@@ -11,6 +11,7 @@ For updates on these bots or new ones, follow us on [Telegram](https://t.me/Star
     <li><a href="#create-own-bots-using-pystark">Create Own Bots using PyStark</a></li>
     <li><a href="#list-of-source-codes">List of Source Codes</a></li>
     <li><a href="#list-of-telegram-bots">List of Telegram Bots</a></li>
+    <li><a href="#other-open-source-projects">Other Open Source Projects</a></li>
   </ul>
 </details>
 
@@ -27,7 +28,6 @@ For updates on these bots or new ones, follow us on [Telegram](https://t.me/Star
 - PyPI - https://pypi.org/project/pystark/
 - Updates - [@pystark](https://t.me/pystark)
 
-
 ### List of Source Codes
 
 1) [Whisper Bot](https://github.com/StarkBotsIndustries/WhisperBot) - Send Secret Whispers
@@ -37,11 +37,11 @@ For updates on these bots or new ones, follow us on [Telegram](https://t.me/Star
 5) [Anonymous Sender Bot](https://github.com/StarkBotsIndustries/AnonymousSenderBot) - Forward Tag Remover
 6) [Sticker Tools Bot](https://github.com/StarkBotsIndustries/StickerToolsBot) - Sticker Conversion Tools
 7) [OCR [Image to Text] Bot](https://github.com/StarkBotsIndustries/OCRBot) - Text extraction from Images
-8) [Telegraph Bot](https://github.com/StarkBotsIndustries/TelegraphBot) - Telegraph Media Uploader
+8) [Telegraph-Go-Bot](https://github.com/StarkBotsIndustries/Telegraph-Go-Bot) - Telegraph API based Telegraph Manager Bot
 9) [Channel Automation Bot](https://github.com/StarkBotsIndustries/ChannelBot) - Telegram Channel Automation Tool
 10) [String Session Bot](https://github.com/StarkBotsIndustries/StringSessionBot) - Pyrogram and Telethon String Session Generator
-11) Instagram Downloader Bot - Download instagram content inside telegram
-12) [PDF Tools Bot](https://github.com/StarkBotsIndustries/PDFBot) - PDF Tools
+11) [Instagram Downloader Bot](https://github.com/StarkBotsIndustries/InstagramBot) - Download instagram content inside telegram
+12) [PDF Tools Bot](https://github.com/StarkBotsIndustries/PDFBot) - Telegram Bot with some PDF Tools
 13) [Force Subscribe Bot](https://github.com/StarkBotsIndustries/ForceSubscribeBot) - Force users to join a particular chat
 14) [Delete Events Bot](https://github.com/StarkBotsIndustries/DeleteEventsBot) - Delete Telegram Service Messages
 15) [ID Bot](https://github.com/StarkBotsIndustries/ID-Bot) - Get ID of groups, channels, users, bots and stickers
@@ -50,8 +50,11 @@ For updates on these bots or new ones, follow us on [Telegram](https://t.me/Star
 18) Stark Assistant Bot - Manages Stark Bots and its Support Group [@StarkBotsChat](https://t.me/StarkBotsChat)
 19) [Delete All Bot](https://github.com/StarkBotsIndustries/DeleteAllBot) - Delete all messages in a group
 20) Restricted Content Bot - Get restricted content from telegram chats.
-21) Video Sticker Bot - Create personalized video stickers packs.
-
+21) [Telegraph Bot](https://github.com/StarkBotsIndustries/TelegraphBot) - Telegraph Media Uploader [Deprecated]
+22) Video Sticker Bot - Create personalized video stickers packs.
+23) Link to Media Bot / URL Uploader - Download media from link.
+24) Database Migrations Bot - Temporary Error Fixer Bot.
+25) Web Screenshot Bot - Get screenshot of any webpage.
 
 ### List of Telegram Bots
 
@@ -59,7 +62,7 @@ For updates on these bots or new ones, follow us on [Telegram](https://t.me/Star
 2) [@RenameStarkBot](https://t.me/RenameStarkBot)
 3) [@BrainQuoteBot](https://t.me/BrainQuoteBot)
 4) [@TheUrbanDictBot](https://t.me/TheUrbanDictBot)
-5) [@AnonySendBot](https://t.me/AnonySendBot)
+5) [@AnonySendBot](https://t.me/AnonySendBot) [Deprecated]
 6) [@Sticker_Tools_Bot](https://t.me/Sticker_Tools_Bot)
 7) [@Image_To_Text_OCR_Bot](https://t.me/Image_To_Text_OCR_Bot)
 8) [@StarkTelegraphBot](https://t.me/StarkTelegraphBot)
@@ -76,3 +79,12 @@ For updates on these bots or new ones, follow us on [Telegram](https://t.me/Star
 19) [@StarkDeleteAllBot](https://t.me/StarkDeleteAllBot)
 20) [@RestrictedContentBot](https://t.me/RestrictedContentBot)
 21) [@Video_Sticker_Bot](https://t.me/Video_Sticker_Bot)
+22) [@Link_To_Media_Bot](https://t.me/Link_To_Media_Bot)
+23) [@DatabaseMigrationBot](https://t.me/DatabaseMigrationBot)
+24) [@Web_Screenshot_Bot](https://t.me/Web_Screenshot_Bot)
+
+### Other Open Source Projects
+
+[Telegraph](https://github.com/StarkBotsIndustries/telegraph) - Golang bindings for Telegraph API
+
+[Heroku Buildpack Nim](https://github.com/StarkBotsIndustries/heroku-buildpack-nim) - Buildpack to install nim and nimble in Heroku
