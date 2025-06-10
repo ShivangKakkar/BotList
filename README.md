@@ -40,21 +40,20 @@ For updates on these bots or new ones, follow us on [Telegram](https://t.me/Star
 8) [Telegraph-Go-Bot](https://github.com/StarkBotsIndustries/Telegraph-Go-Bot) - Telegraph API based Telegraph Manager Bot
 9) [Channel Automation Bot](https://github.com/StarkBotsIndustries/ChannelBot) - Telegram Channel Automation Tool
 10) [String Session Bot](https://github.com/StarkBotsIndustries/StringSessionBot) - Pyrogram and Telethon String Session Generator
-11) [Instagram Downloader Bot](https://github.com/StarkBotsIndustries/InstagramBot) - Download instagram content inside telegram
-12) [PDF Tools Bot](https://github.com/StarkBotsIndustries/PDFBot) - Telegram Bot with some PDF Tools
-13) [Force Subscribe Bot](https://github.com/StarkBotsIndustries/ForceSubscribeBot) - Force users to join a particular chat
-14) [Delete Events Bot](https://github.com/StarkBotsIndustries/DeleteEventsBot) - Delete Telegram Service Messages
-15) [ID Bot](https://github.com/StarkBotsIndustries/ID-Bot) - Get ID of groups, channels, users, bots and stickers
-16) [Time Bot](https://github.com/StarkBotsIndustries/TimeBot) - Show time of all timezones with other features
-17) [Go File Uploader](https://github.com/StarkBotsIndustries/GoFileBot) - Upload media to gofile.io
-18) Stark Assistant Bot - Manages Stark Bots and its Support Group [@StarkBotsChat](https://t.me/StarkBotsChat)
-19) [Delete All Bot](https://github.com/StarkBotsIndustries/DeleteAllBot) - Delete all messages in a group
-20) Restricted Content Bot - Get restricted content from telegram chats.
-21) [Telegraph Bot](https://github.com/StarkBotsIndustries/TelegraphBot) - Telegraph Media Uploader [Deprecated]
-22) Video Sticker Bot - Create personalized video stickers packs.
-23) Link to Media Bot / URL Uploader - Download media from link.
-24) Database Migrations Bot - Temporary Error Fixer Bot.
-25) Web Screenshot Bot - Get screenshot of any webpage.
+11) [PDF Tools Bot](https://github.com/StarkBotsIndustries/PDFBot) - Telegram Bot with some PDF Tools
+12) [Force Subscribe Bot](https://github.com/StarkBotsIndustries/ForceSubscribeBot) - Force users to join a particular chat
+13) [Delete Events Bot](https://github.com/StarkBotsIndustries/DeleteEventsBot) - Delete Telegram Service Messages
+14) [ID Bot](https://github.com/StarkBotsIndustries/ID-Bot) - Get ID of groups, channels, users, bots and stickers
+15) [Time Bot](https://github.com/StarkBotsIndustries/TimeBot) - Show time of all timezones with other features
+16) [Go File Uploader](https://github.com/StarkBotsIndustries/GoFileBot) - Upload media to gofile.io
+17) Stark Assistant Bot - Manages Stark Bots and its Support Group [@StarkBotsChat](https://t.me/StarkBotsChat)
+18) [Delete All Bot](https://github.com/StarkBotsIndustries/DeleteAllBot) - Delete all messages in a group
+19) Restricted Content Bot - Get restricted content from telegram chats.
+20) [Telegraph Bot](https://github.com/StarkBotsIndustries/TelegraphBot) - Telegraph Media Uploader [Deprecated]
+21) Video Sticker Bot - Create personalized video stickers packs.
+22) Link to Media Bot / URL Uploader - Download media from link.
+23) Database Migrations Bot - Temporary Error Fixer Bot.
+24) Web Screenshot Bot - Get screenshot of any webpage.
 
 ### List of Telegram Bots
 
